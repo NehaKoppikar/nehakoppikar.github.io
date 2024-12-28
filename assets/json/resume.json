@@ -1,37 +1,86 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Neha Koppikar",
+    "label": "Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "neha.koppikar@gmail.com",
+    "phone": "https://calendly.com/neha-koppikar",
+    "url": "https://nehakoppikar.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Borivali West",
+      "postalCode": "400091",
+      "city": "Mumbai",
+      "countryCode": "IN",
+      "region": "Maharashtra"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X",
+        "username": "koppikar_neha",
+        "url": "https://x.com/koppikar_neha"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "neha-koppikar",
+        "url": "https://www.linkedin.com/in/neha-koppikar/"
+      },
+      {
+        "network": "GitHub",
+        "username": "NehaKoppikar",
+        "url": "https://github.com/NehaKoppikar"
       }
+      
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "KPMG",
+      "position": "Associate Consultant",
+      "url": "https://kpmg.com/in/en.html",
+      "startDate": "2024-02-01",
+      "endDate": "Present",
+      "summary": "Leveraging data-driven insights, advanced analytics, and technical expertise to support strategic decision-making and optimize business processes for clients.",
+      "tools": ["Excel", "SQL", "Python", "Power BI", "Tableau"]
+    },
+    {
+      "name": "Northern Trust Corporation",
+      "position": "Analyst, SW Full Stack Engineer",
+      "url": "https://www.northerntrust.com/united-states/home",
+      "startDate": "2022-08-15",
+      "endDate": "2023-09-13",
+      "summary": "Optimized data migration, processing, and reporting systems, delivering significant performance improvements, cost savings, and enhanced decision-making capabilities for wealth management operations.",
+      "tools": ["Excel", "SQL", "Microsoft Azure", "Incorta", "Collibra", "SecuPi", "Open AI", "Microsoft Fabric"]
+    },
+    {
+      "name": "Quantiphi",
+      "position": "Business Analyst",
+      "url": "https://quantiphi.com/",
+      "startDate": "2021-04-01",
+      "endDate": "2022-03-17",
+      "summary": " Applied advanced analytics and machine learning solutions to drive impactful business outcomes for Healthcare and Life Sciences clients based in New York",
+      "tools": ["Google Cloud Platform", "Google Slides", "Google Spreadsheet", "Python", "SQL"]
+    },
+    {
+      "name": "Jio Creative Labs",
+      "position": "Data Science Intern",
+      "url": "https://www.jiocreativelabs.com/",
+      "startDate": "2020-04-24",
+      "endDate": "2020-11-01",
+      "summary": "Utilized data analytics and creative strategies to enhance marketing campaigns and optimize audience engagement",
+      "tools": ["Tableau", "Python", "Google Cloud Platform", "Unity", "SparkAR", "Canva"]
+    },
+    {
+      "name": "Neurobyte Ventures Pvt Ltd",
+      "position": "Data Analyst",
+      "url": "https://neurobyte.in/",
+      "startDate": "2019-05-02",
+      "endDate": "2019-05-25",
+      "summary": "Gained foundational experience in the finance domain, created a manual data dictionary in Excel, and developed skills in web scraping and Linux OS",
+      "tools": ["Python", "Excel"] 
     }
+    
+    
   ],
   "volunteer": [
     {
