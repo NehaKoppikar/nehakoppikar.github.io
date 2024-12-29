@@ -6,7 +6,7 @@
     "email": "neha.koppikar@gmail.com",
     "phone": "https://calendly.com/neha-koppikar",
     "url": "https://nehakoppikar.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "US citizen with a robust background in data analytics, engineering, and AI, specializing in developing innovative, data-driven solutions that optimize business processes and drive growth across various industries.",
     "location": {
       "address": "Borivali West",
       "postalCode": "400091",
@@ -96,67 +96,68 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "NMIMS University",
+      "location": "Mumbai, MH, India",
+      "url": "https://nmims.edu/",
+      "area": "Data Science",
+      "studyType": "Bachelor's",
+      "startDate": "2017-07-17",
+      "endDate": "2021-08-07",
+      "courses": ["Computer Programming", "Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing",
+                  "Finance", "Marketing", "Blockchain", "Cloud Computing (AWS)", "Android", "Databse Management System",
+                  "Cyber Security", "Extract Transform Load", "Data Science Ethics"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Certificate of Participation",
+      "date": "2024-12-07",
+      "awarder": "Indian Institute of Technology Bombay",
+      "url": "https://svkmmumbai-my.sharepoint.com/:b:/g/personal/neha_koppikar_svkmmumbai_onmicrosoft_com/EQy22FsZXoJJgFcCC18nc1MBBj6am03ajQNgtQyGVqmkJw?e=QY5fvj",
+      "summary": "Presention Topic - Unsupervised Natural Language Processing for Policy Process Research in India"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Microsoft Certified: Azure Data Fundamentals",
+      "date": "2024-07-17",
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/en-us/users/nehakoppikar70091017028-3807/credentials/4d0297ce6201a431?ref=https%3A%2F%2Fwww.linkedin.com%2F",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Microsoft Certified: Azure AI Fundamentals",
+      "date": "2024-06-01",
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/en-us/users/nehakoppikar70091017028-3807/credentials/35639d619421bf2a?ref=https%3A%2F%2Fwww.linkedin.com%2F",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Incorta 5 Essentials for Business Analysts",
+      "date": "2023-05-23",
+      "issuer": "Incorta",
+      "url": "https://www.credential.net/e0aca90e-cb88-459a-b94b-ad709ccedcd8#acc.UT2IRZSt",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Incorta Dashboard Consumer",
+      "date": "2023-05-23",
+      "issuer": "Incorta",
+      "url": "https://www.credential.net/8497dbf4-b568-40b6-837d-0a074e505a3f#acc.k9TR8bpO",
+      "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Quantum Computing Fundamentals" ,
+      "date": "2022-06-13",
+      "issuer": "MIT xPRO",
+      "url": "https://xpro.mit.edu/certificate/program/347e6376-83c2-4e19-8fe9-4087936d089b/",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Google Cloud Certified Associate CLoud Engineer",
+      "date": "2022-02-02",
+      "issuer": "Google",
+      "url": "https://www.credential.net/acf5f986-6383-4262-8254-522806e32c3b#acc.OZ1Tt5sE",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
