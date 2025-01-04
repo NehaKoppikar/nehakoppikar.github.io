@@ -30,7 +30,6 @@
         "username": "NehaKoppikar",
         "url": "https://github.com/NehaKoppikar"
       }
-      
     ]
   },
   "work": [
@@ -50,7 +49,17 @@
       "startDate": "2022-08-15",
       "endDate": "2023-09-13",
       "summary": "Optimized data migration, processing, and reporting systems, delivering significant performance improvements, cost savings, and enhanced decision-making capabilities for wealth management operations.",
-      "tools": ["Excel", "SQL", "Microsoft Azure", "Incorta", "Collibra", "SecuPi", "Open AI", "Microsoft Fabric", "Grafana"]
+      "tools": [
+        "Excel",
+        "SQL",
+        "Microsoft Azure",
+        "Incorta",
+        "Collibra",
+        "SecuPi",
+        "Open AI",
+        "Microsoft Fabric",
+        "Grafana"
+      ]
     },
     {
       "name": "Quantiphi",
@@ -58,8 +67,14 @@
       "url": "https://quantiphi.com/",
       "startDate": "2021-04-01",
       "endDate": "2022-03-17",
-      "summary": " Applied advanced analytics and machine learning solutions to drive impactful business outcomes for Healthcare and Life Sciences clients based in New York",
-      "tools": ["Google Cloud Platform", "Google Slides", "Google Spreadsheet", "Python", "SQL"]
+      "summary": "Applied advanced analytics and machine learning solutions to drive impactful business outcomes for Healthcare and Life Sciences clients based in New York",
+      "tools": [
+        "Google Cloud Platform",
+        "Google Slides",
+        "Google Spreadsheet",
+        "Python",
+        "SQL"
+      ]
     },
     {
       "name": "Jio Creative Labs",
@@ -68,7 +83,14 @@
       "startDate": "2020-04-24",
       "endDate": "2020-11-01",
       "summary": "Utilized data analytics and creative strategies to enhance marketing campaigns and optimize audience engagement",
-      "tools": ["Tableau", "Python", "Google Cloud Platform", "Unity", "SparkAR", "Canva"]
+      "tools": [
+        "Tableau",
+        "Python",
+        "Google Cloud Platform",
+        "Unity",
+        "SparkAR",
+        "Canva"
+      ]
     },
     {
       "name": "Neurobyte Ventures Pvt Ltd",
@@ -77,10 +99,8 @@
       "startDate": "2019-05-02",
       "endDate": "2019-05-25",
       "summary": "Gained foundational experience in the finance domain, created a manual data dictionary in Excel, and developed skills in web scraping and Linux OS",
-      "tools": ["Python", "Excel"] 
+      "tools": ["Python", "Excel"]
     }
-    
-    
   ],
   "volunteer": [
     {
@@ -117,9 +137,22 @@
       "studyType": "Bachelor of Technology",
       "startDate": "2017-07-17",
       "endDate": "2021-08-07",
-      "courses": ["Computer Programming", "Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing",
-                  "Finance", "Marketing", "Blockchain", "Cloud Computing (AWS)", "Android", "Databse Management System",
-                  "Cyber Security", "Extract Transform Load", "Data Science Ethics"]
+      "courses": [
+        "Computer Programming",
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Finance",
+        "Marketing",
+        "Blockchain",
+        "Cloud Computing (AWS)",
+        "Android",
+        "Databse Management System",
+        "Cyber Security",
+        "Extract Transform Load",
+        "Data Science Ethics"
+      ]
     }
   ],
   "awards": [
@@ -161,7 +194,7 @@
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Computing Fundamentals" ,
+      "name": "Quantum Computing Fundamentals",
       "date": "2022-06-13",
       "issuer": "MIT xPRO",
       "url": "https://xpro.mit.edu/certificate/program/347e6376-83c2-4e19-8fe9-4087936d089b/",
@@ -206,7 +239,7 @@
   "publications": [
     {
       "name": "Smart Monitoring System for Housing Societies based on Deep Learning and IoT",
-      "publisher": "Journal of Engineering Research and Sciences ",
+      "publisher": "Journal of Engineering Research and Sciences",
       "releaseDate": "1905-06-30",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
       "summary": "The paper presents a novel security solution for housing societies, integrating a Raspberry Pi-based facial recognition system with body temperature sensing and an automated data collection web application, addressing the need for enhanced safety measures in residential communities during the COVID-19 era."
@@ -222,21 +255,11 @@
   "skills": [
     {
       "name": "Data Engineering & Analytics",
-      "keywords": [
-        "SQL",
-        "Python",
-        "Azure Data Factory",
-        "IBM DataStage"
-      ]
+      "keywords": ["SQL", "Python", "Azure Data Factory", "IBM DataStage"]
     },
     {
       "name": "Business Intelligence",
-      "keywords": [
-        "Power BI",
-        "Tableau",
-        "Incorta",
-        "Grafana"
-      ]
+      "keywords": ["Power BI", "Tableau", "Incorta", "Grafana"]
     },
     {
       "name": "Cloud Computing",
@@ -258,10 +281,7 @@
     },
     {
       "name": "Data Governance",
-      "keywords": [
-        "Collibra",
-        "SecuPi"
-      ]
+      "keywords": ["Collibra", "SecuPi"]
     }
   ],
   "languages": [
@@ -281,6 +301,5 @@
       "language": "Konkani",
       "fluency": "Native speaker"
     }
-
   ]
 }
