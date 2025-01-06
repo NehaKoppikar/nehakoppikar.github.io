@@ -24,7 +24,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Neha is a US citizen and holds a bachelor's degree in Data Science and has over 3 years of experience working in both the US and India. With a background in data engineering, business analytics and full-stack development in healthcare, finance and government sectors, she specializes in building data pipelines, developing data-driven web applications, and creating insightful dashboards with a passion for applying machine learning and cloud-based solutions to solve real-world challenges.
+Neha holds a bachelor's degree in Data Science and has over 3 years of experience working in both the US and India. With a background in data engineering, business analytics and full-stack development in healthcare, finance and government sectors, she specializes in building data pipelines, developing data-driven web applications, and creating insightful dashboards with a passion for applying machine learning and cloud-based solutions to solve real-world challenges.
 
 Currently serving as an Associate Consultant at KPMG India. 
 
