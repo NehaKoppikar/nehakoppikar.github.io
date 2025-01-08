@@ -24,13 +24,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Neha holds a bachelor's degree in Data Science and has over 3 years of experience working in both the US and India. With a background in data engineering, business analytics and full-stack development in healthcare, finance and government sectors, she specializes in building data pipelines, developing data-driven web applications, and creating insightful dashboards with a passion for applying machine learning and cloud-based solutions to solve real-world challenges.
+I am a dedicated Data Engineer with a strong foundation in building scalable, data-driven solutions and a focus on integrating AI/ML capabilities into enterprise workflows. Proficient in Python, Apache Airflow, PySpark, MLflow, TensorFlow, and scikit-learn, I specialize in creating end-to-end data pipelines, deploying machine learning models, and leveraging cloud platforms like Google Cloud Platform (GCP) to deliver impactful results.
 
-Currently serving as an Associate Consultant at KPMG India. 
-
-Expertise includes:
-- Data Engineering & Analytics: SQL, Python, Azure Data Factory, IBM DataStage
-- Business Intelligence: Power BI, Tableau, Incorta, Grafana
-- Cloud Platforms: Google Cloud Platform (GCP), Azure, AWS
-- AI/ML: Deep Learning, Quantum Computing, Machine Learning, Natural Language Processing, Computer Vision
-- Data Governance: Collibra, SecuPi
+Currently, I am refining my expertise in cloud-native data solutions through projects like a fraud detection system, utilizing advanced technologies to enhance detection accuracy and scalability. With a keen interest in continuous learning, I am also preparing for the DP-600 exam to deepen my skills in implementing cloud-based data and AI solutions effectively.
