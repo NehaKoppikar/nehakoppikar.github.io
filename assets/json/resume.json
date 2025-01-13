@@ -166,6 +166,13 @@
   ],
   "certificates": [
     {
+      "name": "Microsoft Certified: Fabric Analytics Engineer Associate",
+      "date": "2025-01-11",
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/en-us/users/nehakoppikar70091017028-3807/credentials/a1f8afe317da1f60?ref=https%3A%2F%2Fwww.linkedin.com%2F",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
       "name": "Microsoft Certified: Azure Data Fundamentals",
       "date": "2024-07-17",
       "issuer": "Microsoft",
