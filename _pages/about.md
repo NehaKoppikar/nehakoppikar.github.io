@@ -30,4 +30,12 @@ I am an data-driven AI professional with over 5 years of experience building sca
 My technical work focuses on applying Machine Learning and NLP to create real-world impact—contributions that have been featured in Google Cloud blogs and published in international academic conferences.
 
 Outside of the terminal, I am a **Karate black belt**, an aspiring **guitarist**, and an avid **reader**. Whether I'm practicing chord progressions or diving into a new book, I enjoy the discipline of learning new skills outside of the tech world.
+
+**Core Competencies:**
+
+* **Languages & Data:** Python, SQL
+* **Cloud Platforms:** GCP, Azure
+* **AI/ML:** NLP, Machine Learning, Agentic AI, RAG
+* **Visualization:** Tableau, Power BI, Figma
+
 ---
