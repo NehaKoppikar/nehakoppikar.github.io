@@ -133,6 +133,11 @@ external_sources:
     rss_url: https://medium.com/@nehakoppikar/feed
     categories: [external-posts]
     tags: [medium]
+
+  - name: dev.to
+    rss_url: https://dev.to/feed/nehakoppikar
+    categories: [external-posts]
+    tags: [devto]
   # - name: Google Blog
   #   posts:
   #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
