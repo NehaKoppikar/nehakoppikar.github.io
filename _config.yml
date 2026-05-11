@@ -135,7 +135,7 @@ external_sources:
     tags: [medium]
 
   - name: dev.to
-    rss_url: https://dev.to/feed/nehakoppikar
+    rss_url: https://dev.to/nehakoppikar
     categories: [external-posts]
     tags: [devto]
   # - name: Google Blog
