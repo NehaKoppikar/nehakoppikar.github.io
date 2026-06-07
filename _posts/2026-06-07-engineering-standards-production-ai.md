@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Pragmatic Data Scientist: Engineering Standards for Production AI"
-date: 2026-06-08
+date: 2026-06-07
 tags: [software-engineering, data-science, technical-leadership, best-practices]
 description: "An operational guide to bridging the gap between data science workflows and production-grade software architecture, designed for scalable team onboarding."
 ---
