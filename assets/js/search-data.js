@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-omscs-course-review-cs-6750-human-computer-interaction",
+        },{id: "post-the-pragmatic-data-scientist-engineering-standards-for-production-ai",
+        
+          title: "The Pragmatic Data Scientist: Engineering Standards for Production AI",
+        
+        description: "An operational guide to bridging the gap between data science workflows and production-grade software architecture, designed for scalable team onboarding.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/engineering-standards-production-ai/";
+          
+        },
+      },{id: "post-omscs-course-review-cs-6750-human-computer-interaction",
         
           title: "OMSCS Course Review: CS 6750 Human-Computer Interaction",
         
