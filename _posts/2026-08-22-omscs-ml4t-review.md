@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OMSCS Course Review: CS 7646 Machine Learning for Trading (ML4T)"
-date: 2026-08-23
+date: 2026-08-22
 tags: [omscs, ml4t, machine-learning, trading, review]
 description: "A practical review of CS 7646 Machine Learning for Trading, covering the course structure, workload, projects, learning journey, and tips for success."
 ---
