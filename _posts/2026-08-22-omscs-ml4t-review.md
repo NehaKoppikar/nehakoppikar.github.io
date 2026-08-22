@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "OMSCS Course Review: CS 7646 Machine Learning for Trading (ML4T)"
-date: 2026-08-22
-tags: [omscs, ml4t, machine-learning, trading, review]
+date: 2026-08-21 12:00:00 +0000
 description: "A practical review of CS 7646 Machine Learning for Trading, covering the course structure, workload, projects, learning journey, and tips for success."
+tags: [omscs, ml4t, machine-learning, trading, review]
+categories: [omscs]
+featured: false
 ---
 
 
@@ -11,7 +13,7 @@ description: "A practical review of CS 7646 Machine Learning for Trading, coveri
 
 ## Background and Motivation
 
-Heading into the summer term, my initial plan was to take **CS 6601: Artificial Intelligence**. However, with upcoming travel plans, I needed a course that provided the flexibility to work ahead without the relentless pace of a heavy summer offering.
+Heading into the summer term, my initial plan was to take CS 6601: Artificial Intelligence. However, with upcoming travel plans, I needed a course that provided the flexibility to work ahead without the relentless pace of a heavy summer offering.
 
 After discussing course structures and deliverables on Ed Discussion with peers and TAs, it became clear that AI's non-frontloaded schedule and intensive exam window wouldn't align well with my travel timeline.
 
@@ -36,37 +38,37 @@ Rather than focusing purely on deep theoretical derivations, the course emphasiz
 
 The course is designed around an **iterative development path** culminating in an end-to-end trading system in Project 8. Code modules built in early assignments—including data processing, technical indicators, and learners—are reused and integrated into later projects.
 
-### Guidance & Office Hours
+**Guidance & Office Hours**
 
 TAs host weekly syncs alongside individual office hours. Live sessions were significantly more direct and helpful for project roadblocks compared to Ed Discussion threads, where responses intentionally leaned into ambiguity to mirror real-world industry problem-solving.
 
-### Canvas Media Gallery
+**Canvas Media Gallery**
 
 The provided project walkthroughs and module videos covering **OOP, Reinforcement Learning, and environment setup** are essential.
 
 Reviewing the walkthrough video and rubric checklist **before writing any code** can prevent costly misunderstandings.
 
-### Workload Cadence
+**Workload Cadence**
 
 Most non-exam weeks feature a combined project and quiz deadline. The summer pacing is brisk, but simplified report requirements on select projects help balance the workload.
 
 ## Tips for Success
 
-### 1. Clear Quizzes First
+1. Clear Quizzes First
 
 Quizzes are low-hanging fruit. Knock them out early in the week so you can dedicate focused blocks of time to project logic and report writing.
 
-### 2. Frontload Deliverables
+2. Frontload Deliverables
 
 Project specifications and environments are available early. Starting mid-week rather than waiting for the weekend is critical to managing both code and JDF writeups.
 
-### 3. Mind the Environment Matrix
+3. Mind the Environment Matrix
 
 Note that course development requires a **Linux or macOS** environment. Windows is not officially supported for development workflows.
 
 However, exams require **Windows or macOS** for Honorlock proctoring. Using a Mac offers a unified setup for both development and exams.
 
-### 4. Maintain Version Control
+4. Maintain Version Control
 
 Back up your work regularly to Georgia Tech's Enterprise GitHub instance using the setup guide provided in the Canvas Media Gallery.
 
