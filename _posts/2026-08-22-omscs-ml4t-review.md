@@ -8,9 +8,6 @@ categories: [omscs]
 featured: false
 ---
 
-
-# OMSCS Course Review: CS 7646 Machine Learning for Trading (ML4T)
-
 ## Background and Motivation
 
 Heading into the summer term, my initial plan was to take CS 6601: Artificial Intelligence. However, with upcoming travel plans, I needed a course that provided the flexibility to work ahead without the relentless pace of a heavy summer offering.
@@ -54,21 +51,21 @@ Most non-exam weeks feature a combined project and quiz deadline. The summer pac
 
 ## Tips for Success
 
-1. Clear Quizzes First
+- Clear Quizzes First
 
 Quizzes are low-hanging fruit. Knock them out early in the week so you can dedicate focused blocks of time to project logic and report writing.
 
-2. Frontload Deliverables
+- Frontload Deliverables
 
 Project specifications and environments are available early. Starting mid-week rather than waiting for the weekend is critical to managing both code and JDF writeups.
 
-3. Mind the Environment Matrix
+- Mind the Environment Matrix
 
 Note that course development requires a **Linux or macOS** environment. Windows is not officially supported for development workflows.
 
 However, exams require **Windows or macOS** for Honorlock proctoring. Using a Mac offers a unified setup for both development and exams.
 
-4. Maintain Version Control
+- Maintain Version Control
 
 Back up your work regularly to Georgia Tech's Enterprise GitHub instance using the setup guide provided in the Canvas Media Gallery.
 
