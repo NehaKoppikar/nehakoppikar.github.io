@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-the-pragmatic-data-scientist-engineering-standards-for-production-ai",
+        },{id: "post-omscs-course-review-cs-7646-machine-learning-for-trading-ml4t",
+        
+          title: "OMSCS Course Review: CS 7646 Machine Learning for Trading (ML4T)",
+        
+        description: "A practical review of CS 7646 Machine Learning for Trading, covering the course structure, workload, projects, learning journey, and tips for success.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/omscs-ml4t-review/";
+          
+        },
+      },{id: "post-the-pragmatic-data-scientist-engineering-standards-for-production-ai",
         
           title: "The Pragmatic Data Scientist: Engineering Standards for Production AI",
         
